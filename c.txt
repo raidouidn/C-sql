@@ -1,0 +1,9 @@
+class yemeklistesi
+{
+	public string yemekismi { get; set;}
+	public string malzemeninismi { get; set;}
+     }
+	public Yemek()
+	{
+	}
+}
